@@ -83,6 +83,9 @@
   <a href="https://www.eclipse.org/">
     <img src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" title="Eclipse" **alt="Eclipse" width="40" height="40"/>
   </a>
+  <a href="https://university.alchemy.com/">
+    <img src="https://university.alchemy.com/assets/dashboard_logo.75bc75d8.svg" title="AlchemyUniversity" **alt="AlchemyUniversity" width="40" height="40"/>
+  </a>
 </div>
 
 <h1></h1>
