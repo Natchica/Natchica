@@ -78,7 +78,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" **alt="PremierePro" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/fr-fr/microsoft-365/office-365">
-    <img src="https://png2.cleanpng.com/sh/f34b407009c314a51c5ec4d6dffafe7c/L0KzQYm3VsI4N5pukZH0aYP2gLBuTf1qa6N0i9HvdD3ydrfwgBUuO2c6RdV4bYD4hLb5TgNwbqV8eeRuLX3sc8P2kB9nfF50RdHvZnnmdX66VsUuPZM4S6g8ZHHmc7SBhsgvOWY7SKcEMkG0RYS3UMk1PWY5UKUDOD7zfri=/kisspng-microsoft-office-365-computer-software-microsoft-o-office-365-5b3363daccc8f8.1560592115300945548388.png" title="PackOffice" **alt="PackOffice" width="110" height="40"/>
+    <img src="https://www.techadvisor.fr/cmsdata/features/3679907/office_pour_mac_2018_thumb800.png" title="PackOffice" **alt="PackOffice" width="80" height="40"/>
   </a>
   <a href="https://www.eclipse.org/">
     <img src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" title="Eclipse" **alt="Eclipse" width="40" height="40"/>
