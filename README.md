@@ -102,9 +102,9 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natchica&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p id="badges" align="center"> 
+<p id="badges" align="right"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Natchica/count.svg" />
 </p>
 
 <!---
