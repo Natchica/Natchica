@@ -101,6 +101,8 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natchica&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<a href=#><img src="snake_commit.svg"></a>
+
 <div id="badges" align="right">
   <img src="https://komarev.com/ghpvc/?username=Natchica&style=flat-square&color=blue" alt=""/>
 </div>
