@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
 
+<a href=#>
+  <img src="snake_commit.svg">
+</a>
+
 <h1>👋 Hi, I’m Nathan</h1>
 
 <h3>I'm a Computer Science student at ENSEEIHT in France</h3>
@@ -99,13 +103,10 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natchica&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href=#>
-  <img src="snake_commit.svg">
-</a>
-
-<div id="badges" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Natchica&style=flat-square&color=blue" alt=""/>
-</div>
+<p id="badges" align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 <!---
 Natchica/Natchica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
