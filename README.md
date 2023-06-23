@@ -36,8 +36,10 @@
 <h3 align="left">
   🔥 My Stats :
 </h3>
- 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natchica&theme=dark&background=000000)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Natchica&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchica&hide=TeX&layout=compact&theme=dark)
 
 <p id="badges" align="right"> 
   Visitor count<br>
